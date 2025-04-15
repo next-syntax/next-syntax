@@ -1,6 +1,6 @@
 ## 👥 Quem Somos
 
-Somos **Daniel Freitas** e **Luiz Felipe Zomer**, desenvolvedores com sólida experiência em **backend** e **frontend**. Unimos força, lógica e criatividade para construir soluções completas, seguras e escaláveis.
+**Daniel Freitas** e **Luiz Felipe Zomer**, desenvolvedores com sólida experiência em **backend** e **frontend**. Unimos força, lógica e criatividade para construir soluções completas, seguras e escaláveis.
 
 ## 💡 O que Fazemos
 
